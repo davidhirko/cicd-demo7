@@ -8,4 +8,4 @@ Check out [this page](https://github.com/integrations) for an overview.
 
 This is a safe text addition.
 
-Someone is working without [guard rails](http://www.google.commm).
+Someone is working without [guard rails](http://www.google.com).
